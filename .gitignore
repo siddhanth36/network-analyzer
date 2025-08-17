@@ -1,0 +1,39 @@
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project specific
+traffic_report.png
+captures/
+*.pcap
+
+# Local configuration
+config.ini
+secrets.py
+
+# Package files
+*.egg-info/
+dist/
+build/
